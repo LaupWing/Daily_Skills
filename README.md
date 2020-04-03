@@ -6,3 +6,11 @@ So the main purpose of this website is to:
 * See Your progression
 
 
+## Feature list
+
+
+| Feature  |      Status      | 
+|----------|:-------------:|
+| col 1 is |  left-aligned |
+| col 2 is |    centered   |  
+| col 3 is | right-aligned |
