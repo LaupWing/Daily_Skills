@@ -9,8 +9,10 @@ So the main purpose of this website is to:
 ## Feature list
 
 
-| Feature  |      Status      | 
-|----------|:-------------:|
-| col 1 is |  left-aligned |
-| col 2 is |    centered   |  
-| col 3 is | right-aligned |
+| Feature                                   |     Status    | 
+|-------------------------------------------|:-------------:|
+| User Create Skill                         |      ❌       |
+| Upload Src                                |      ❌       |  
+| Connect Src to Learnings                  |      ❌       |
+| Login With Facebook or Google             |      ❌       |
+| Upload Progress(images, docs etc)         |      ❌       |
